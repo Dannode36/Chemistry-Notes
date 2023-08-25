@@ -1,0 +1,3 @@
+- The Specific heat capacity, c, of a substance measures the quantity of energy (usually in joules) needed to increase the temperature of a specified quantity of that substance (usually 1g) by 1K.
+- It is usually measured in joules per kelvin per gram, JK-1g-1 or joules per kelvin per kilogram, JK-1kg-1 . Make sure to check units.
+- The measurement and calculation of heat changes is called [[Calorimetry]].

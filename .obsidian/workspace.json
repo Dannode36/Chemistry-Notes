@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "88de06c8283ccfa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbe9b341cb495b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632a7e09600d276b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9248f1b9c4db8260",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8948862b0b5d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c676a01da018a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0cc80bc5a58c12a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "256b830044a9d68d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4b8aa1a868a56e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e00134a69c8016f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba2452ab2a0f18b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90c1e2dec72c5d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c18c5698b9581f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ea85698ed2a78f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "237b03b8affc9c0e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "00e476b2be67876a",
+        "type": "window",
+        "children": [
+          {
+            "id": "c624a833f1cacf1f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a53a7ddc96b2e4d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 573,
+        "y": 626,
+        "width": 602,
+        "height": 302,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a53a7ddc96b2e4d0",
+  "lastOpenFiles": [
+    "Notes/Module 4 - Drivers of Reactions/Calorimetry.md",
+    "Notes/Module 4 - Drivers of Reactions/Enthalpy.md",
+    "Notes/Module 4 - Drivers of Reactions/Exothermic and Endothermic Reactions.md",
+    "Notes/Module 4 - Drivers of Reactions/Heat Capacity.md",
+    "Notes/Module 4 - Drivers of Reactions/Heat of Combustion.md",
+    "Notes/Module 4 - Drivers of Reactions/IQ Summaries/Topic 1 - Energy Changes in Reaction.md",
+    "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
+    "HTML Export/notes/lib/notes/index.html",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry/iq-summaries/topic-1-chemical-reactions.html",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry/iq-summaries",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry/synthesis.html",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry/precipitation.html",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry/decomposition.html",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry/combustion.html",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry/chemical-change.html",
+    "HTML Export/notes/lib/notes/module-3-reactive-chemistry",
+    "HTML Export/notes/lib/notes/module-4-drivers-of-reactions/calorimetry.html",
+    "Notes/Index.md",
+    "HTML Export/notes/lib/lib/media/energy-diagram-exo-endothermic.png",
+    "Notes/Module 3 - Reactive Chemistry/Chemical Change.md",
+    "Notes/Module 3 - Reactive Chemistry/Combustion.md",
+    "Notes/Module 3 - Reactive Chemistry/Decomposition.md",
+    "Notes/Module 3 - Reactive Chemistry/Precipitation.md",
+    "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
+    "HTML Export/README.md",
+    "Notes/Reactive Chemisty/Chemical Change.md",
+    "Notes/Reactive Chemisty/Combustion.md",
+    "Notes/Reactive Chemisty/Decomposition.md",
+    "Notes/Reactive Chemisty/Precipitation.md",
+    "Notes/Reactive Chemisty/Reactive Chemisty.md",
+    "Notes/Reactive Chemisty/Synthesis.md",
+    "Notes/Module 4 - Drivers of Reactions/IQ Summary/Topic 1 - Energy Changes in Reaction.md",
+    "2023-08-24.md",
+    "Untitled.canvas",
+    "Knowledge Canvas.canvas",
+    "Notes/Energy Diagram Exo-Endothermic.png",
+    "Checklist.md",
+    "Reactive Chemisty/1.png",
+    "Acid carbonate reactions.md",
+    "Untitled 1.canvas",
+    "Reactive Chemisty/decomposition.md"
+  ]
+}

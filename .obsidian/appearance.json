@@ -1,0 +1,8 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "HideEmbedTitle",
+    "clean-embeds"
+  ]
+}

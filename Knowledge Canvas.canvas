@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"group","id":"0fbd723fbc1a1431","x":-800,"y":-780,"width":2180,"height":1700,"label":"Reactive Chemisty"},
+		{"type":"file","file":"Notes/Module 3 - Reactive Chemistry/Chemical Change.md","id":"d029b4399c64b6ad","x":-780,"y":-760,"width":400,"height":400},
+		{"type":"file","file":"Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md","id":"dde6f05a49f13d06","x":20,"y":-240,"width":400,"height":400},
+		{"type":"file","file":"Notes/Module 3 - Reactive Chemistry/Decomposition.md","id":"bb6b39ffdffd6208","x":300,"y":480,"width":400,"height":400},
+		{"type":"file","file":"Notes/Module 3 - Reactive Chemistry/Synthesis.md","id":"f24eb3d6eadf1d4f","x":-260,"y":480,"width":400,"height":400},
+		{"type":"file","file":"Notes/Module 3 - Reactive Chemistry/Combustion.md","id":"7dff5ca4c60e123d","x":740,"y":40,"width":400,"height":400},
+		{"type":"file","file":"Notes/Module 3 - Reactive Chemistry/Precipitation.md","id":"0a09348241e4c3be","x":740,"y":-520,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8ee72bf156fbf613","fromNode":"dde6f05a49f13d06","fromSide":"right","toNode":"7dff5ca4c60e123d","toSide":"left"},
+		{"id":"b8224a12acc42968","fromNode":"d029b4399c64b6ad","fromSide":"right","toNode":"dde6f05a49f13d06","toSide":"left"},
+		{"id":"1906c84872a54791","fromNode":"dde6f05a49f13d06","fromSide":"bottom","toNode":"f24eb3d6eadf1d4f","toSide":"top"},
+		{"id":"d819df00f56f7ae8","fromNode":"dde6f05a49f13d06","fromSide":"bottom","toNode":"bb6b39ffdffd6208","toSide":"top"},
+		{"id":"3bddc846d7a3603a","fromNode":"dde6f05a49f13d06","fromSide":"right","toNode":"0a09348241e4c3be","toSide":"left"}
+	]
+}
