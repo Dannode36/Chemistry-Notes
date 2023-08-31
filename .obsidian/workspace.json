@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
+                "file": "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
+                "file": "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md"
+                "file": "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md"
               }
             }
           }
@@ -147,45 +147,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "237b03b8affc9c0e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "00e476b2be67876a",
-        "type": "window",
-        "children": [
-          {
-            "id": "c624a833f1cacf1f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a53a7ddc96b2e4d0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 573,
-        "y": 626,
-        "width": 602,
-        "height": 302,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a53a7ddc96b2e4d0",
+  "active": "632a7e09600d276b",
   "lastOpenFiles": [
+    "Notes/Module 2 -",
+    "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
     "Notes/Module 4 - Drivers of Reactions/Calorimetry.md",
     "Notes/Module 4 - Drivers of Reactions/Enthalpy.md",
     "Notes/Module 4 - Drivers of Reactions/Exothermic and Endothermic Reactions.md",
@@ -209,7 +174,6 @@
     "Notes/Module 3 - Reactive Chemistry/Combustion.md",
     "Notes/Module 3 - Reactive Chemistry/Decomposition.md",
     "Notes/Module 3 - Reactive Chemistry/Precipitation.md",
-    "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
     "HTML Export/README.md",
     "Notes/Reactive Chemisty/Chemical Change.md",
     "Notes/Reactive Chemisty/Combustion.md",
