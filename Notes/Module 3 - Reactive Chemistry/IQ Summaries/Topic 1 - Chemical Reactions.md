@@ -11,6 +11,6 @@ cssclass: clean-embeds
 ## Precipitation
 ![[Precipitation]]
 ## Acid-Base
-![[Acid base reactions]]
+![[Acid-X Reactions]]
 ## Acid-Carbonate
-![[Acid carbonate reactions]]
+![[Acid-X Reactions]]

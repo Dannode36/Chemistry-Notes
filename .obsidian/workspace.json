@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5
   },
   "right": {
     "id": "d4b8aa1a868a56e0",
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +149,8 @@
   },
   "active": "632a7e09600d276b",
   "lastOpenFiles": [
+    "Notes/Module 3 - Reactive Chemistry/Acid-X Reactions.md",
+    "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
     "Notes/Module 2 -",
     "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
     "Notes/Module 4 - Drivers of Reactions/Calorimetry.md",
@@ -157,7 +159,6 @@
     "Notes/Module 4 - Drivers of Reactions/Heat Capacity.md",
     "Notes/Module 4 - Drivers of Reactions/Heat of Combustion.md",
     "Notes/Module 4 - Drivers of Reactions/IQ Summaries/Topic 1 - Energy Changes in Reaction.md",
-    "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
     "HTML Export/notes/lib/notes/index.html",
     "HTML Export/notes/lib/notes/module-3-reactive-chemistry/iq-summaries/topic-1-chemical-reactions.html",
     "HTML Export/notes/lib/notes/module-3-reactive-chemistry/iq-summaries",
@@ -167,7 +168,6 @@
     "HTML Export/notes/lib/notes/module-3-reactive-chemistry/combustion.html",
     "HTML Export/notes/lib/notes/module-3-reactive-chemistry/chemical-change.html",
     "HTML Export/notes/lib/notes/module-3-reactive-chemistry",
-    "HTML Export/notes/lib/notes/module-4-drivers-of-reactions/calorimetry.html",
     "Notes/Index.md",
     "HTML Export/notes/lib/lib/media/energy-diagram-exo-endothermic.png",
     "Notes/Module 3 - Reactive Chemistry/Chemical Change.md",
