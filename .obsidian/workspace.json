@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Module 4 - Drivers of Reactions/Enthalpy.md",
-                "mode": "source",
+                "file": "Notes/Module 5 - Equilibrium and Acid Reactions/Topic Summaries/Topic 1 - Static and Dynamic Equilibrium.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Module 4 - Drivers of Reactions/Enthalpy.md",
+                "file": "Notes/Module 3 - Reactive Chemistry/Combustion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Module 4 - Drivers of Reactions/Enthalpy.md",
+                "file": "Notes/Module 3 - Reactive Chemistry/Combustion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Module 4 - Drivers of Reactions/Enthalpy.md"
+                "file": "Notes/Module 3 - Reactive Chemistry/Combustion.md"
               }
             }
           },
@@ -158,42 +158,79 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f0fa5f95d469674e",
+  "floating": {
+    "id": "b68f7f1e9e779aef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6f333113329d6707",
+        "type": "window",
+        "children": [
+          {
+            "id": "e248e1e457182055",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e68305432d22ca3c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Module 3 - Reactive Chemistry/Combustion.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 190,
+        "y": 194,
+        "width": 600,
+        "height": 302,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e68305432d22ca3c",
   "lastOpenFiles": [
+    "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
+    "Notes/Module 3 - Reactive Chemistry/Acid-X Reactions.md",
+    "Notes/Module 3 - Reactive Chemistry/Decomposition.md",
+    "Notes/Module 3 - Reactive Chemistry/Precipitation.md",
+    "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
     "Notes/Module 4 - Drivers of Reactions/Calorimetry.md",
-    "Notes/Module 4 - Drivers of Reactions/IQ Summaries/Topic 1 - Energy Changes in Reaction.md",
-    "Notes/Module 4 - Drivers of Reactions/Exothermic and Endothermic Reactions.md",
     "Notes/Module 4 - Drivers of Reactions/Enthalpy.md",
+    "Notes/Module 4 - Drivers of Reactions/Exothermic and Endothermic Reactions.md",
+    "Notes/Module 4 - Drivers of Reactions/Heat Capacity.md",
+    "Notes/Module 4 - Drivers of Reactions/Heat of Combustion.md",
+    "Notes/Module 4 - Drivers of Reactions/IQ Summaries/Topic 1 - Energy Changes in Reaction.md",
+    "Notes/Module 5 - Equilibrium and Acid Reactions/Equilibrium.md",
+    "Notes/Module 5 - Equilibrium and Acid Reactions/Topic Summaries/Topic 1 - Static and Dynamic Equilibrium.md",
     "Notes/Module 5 - Equilibrium and Acid Reactions/Chemical Systems.md",
     "Knowledge Canvas.canvas",
-    "Notes/Module 5 - Equilibrium and Acid Reactions/Topic Summaries/Topic 1 - Static and Dynamic Equilibrium.md",
-    "Notes/Module 5 - Equilibrium and Acid Reactions/Equilibrium.md",
     "Notes/Module 7 - Organic Chemistry/Topic Summaries",
     "Notes/Module 6 - Acid-Base Reactions/Topic Summaries",
     "Notes/Module 7 - Organic Chemistry",
     "Notes/Module 6 - Acid-Base Reactions",
-    "Notes/Module 4 - Drivers of Reactions/Heat Capacity.md",
     "Checklist.md",
     "Assignments.md",
     "Notes/Index.md",
     "Untitled.canvas",
-    "Notes/Module 3 - Reactive Chemistry/IQ Summaries/Topic 1 - Chemical Reactions.md",
     "Images/Energy Diagram Exo-Endothermic.png",
     "Images",
     "Notes/Module 5 - Equilibrium and Acid Reactions/Topic Summaries",
     "README.md",
     "Notes/Module 5 - Equilibrium and Acid Reactions",
-    "Notes/Module 3 - Reactive Chemistry/Acid-X Reactions.md",
     "Notes/Module 2 -",
-    "Notes/Module 3 - Reactive Chemistry/Synthesis.md",
-    "Notes/Module 4 - Drivers of Reactions/Heat of Combustion.md",
     "HTML Export/notes/lib/notes/index.html",
     "HTML Export/notes/lib/notes/module-3-reactive-chemistry/iq-summaries/topic-1-chemical-reactions.html",
     "HTML Export/notes/lib/lib/media/energy-diagram-exo-endothermic.png",
     "Notes/Module 3 - Reactive Chemistry/Chemical Change.md",
     "Notes/Module 3 - Reactive Chemistry/Combustion.md",
-    "Notes/Module 3 - Reactive Chemistry/Decomposition.md",
-    "Notes/Module 3 - Reactive Chemistry/Precipitation.md",
     "HTML Export/README.md",
     "Notes/Reactive Chemisty/Chemical Change.md",
     "Notes/Reactive Chemisty/Combustion.md",
