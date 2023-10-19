@@ -1,5 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false
 }

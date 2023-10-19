@@ -4,5 +4,9 @@
   "enabledCssSnippets": [
     "HideEmbedTitle",
     "clean-embeds"
-  ]
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "translucency": false,
+  "cssTheme": "Solarized"
 }

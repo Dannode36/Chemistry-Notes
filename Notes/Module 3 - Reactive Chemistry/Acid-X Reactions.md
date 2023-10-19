@@ -1,5 +1,5 @@
 ### Generalisations: 
-- $Acid+Base\rightarrow Salt+Water$
+ - $Acid+Base\rightarrow Salt+Water$
 	- E.g. $H_2SO_4 + 2KOH \rightarrow K_2SO_4 + H_2O$
 
 - $Acid+Carbonate\rightarrow Salt+Water+CO_2$
