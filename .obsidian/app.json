@@ -4,6 +4,6 @@
   "showFrontmatter": false,
   "propertiesInDocument": "visible",
   "showLineNumber": false,
-  "showIndentGuide": true,
+  "showIndentGuide": false,
   "rightToLeft": false
 }
