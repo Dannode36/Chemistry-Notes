@@ -1,0 +1,3 @@
+- Change in enthalpy
+	- Strength of bonds in material dissociating (if ionic lattice broken), called **lattice dissociation enthalpy** is endothermic
+	- Strength of bonds between water and material formed (hydration enthalpy) is exothermic
