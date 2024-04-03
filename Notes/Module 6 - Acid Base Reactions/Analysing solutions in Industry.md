@@ -1,0 +1,7 @@
+## Tools and Techniques
+### Indicators
+The simplest method for observing a solutions pH is through an indicator. Indicators change their colour based of the pH of the solution they're mixed into. Indicators such as phenolphthalein are particularly useful during titration of weak acid/strong base reactions where the equivalence point is above 7 as phenolphthalein changes from clear to a pink colour at around a pH of 8.2. This is not very helpful for other types of reactions, e.g. strong acid/strong base. While indicators provide a simple way to approximate a wide range of pH levels, it becomes subjective to observe an exact value and are not designed for collecting accurate data.
+### pH Probes
+Probes provide a much more accurate experience in measuring the pH of a solution and are not bound by a range of pH like indicators are. pH probes do impede an additional layer of complexity, requiring a technical knowledge, are often costly to purchase/replace, and require calibration before accurate measurements are made.
+### Titration
+Titration is one of the most common and widely used methods of solution analysis. Making use of either indicators or pH probes, it takes on the same pros and cons. The method of titration does insert an additional layer of technical complexity due to it's difficult and time consuming nature compared to the above equipment. It also requires a mathematical understanding of chemical equations, molar ratios, and concentration.

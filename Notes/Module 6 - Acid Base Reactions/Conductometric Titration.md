@@ -1,0 +1,1 @@
+- The conductivity of a solution is based on the number of freely moving charges (ions). Therefore the concentration and the strength of an acid or base affects the conductivity.
