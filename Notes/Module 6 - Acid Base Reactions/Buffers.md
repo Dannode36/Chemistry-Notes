@@ -1,0 +1,8 @@
+- A buffer is a solution which resists changes in pH when small quantities of acid or base are added to it.
+- It is a solution containing a mixture of:
+    - A weak acid an its conjugate base
+        - This is generally an acidic buffer (pH < 7)
+    - A weak base and its conjugate acid
+        - This is generally a basic buffer (pH > 7)
+- The ratio of each part of the solution allows you to alter the pH
+- When an acid or base is added to the solution, the equilibrium shifts (Le Chatelier's principle) to counteract the change and maintain the pH
