@@ -1,0 +1,4 @@
+- Compounds containing a carbon atom double bonded to an oxygen atom are called carbonyl compounds
+- Aldehydes and ketones are carbonyl compounds
+- Aldehydes contain a carbon-oxygen double bond at the end of the hydrocarbon chain
+- Ketones contain a carbon-oxygen double bond at any position EXCEPT the ends of the hydrocarbon chain
