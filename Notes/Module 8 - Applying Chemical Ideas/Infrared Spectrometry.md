@@ -1,0 +1,4 @@
+- Alcohol groups show as broad troughs (beer gut) ($R-OH$)
+- Amines show as "fangs" ($R-NH_2$)
+- A single "fang" can identify a 2* Amine or a terminal alkyne
+- 
