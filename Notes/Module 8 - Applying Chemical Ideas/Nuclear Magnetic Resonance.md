@@ -2,7 +2,6 @@
 NMR can detect the presence of different nuclei by bombarding samples with a range of high energy radio waves. Certain nuclei will absorb radio waves and flip to a higher energy spin, before flipping back to their lower energy spin (similar to electron excitation) and emit a characteristic radio wave for analysis
 
 NMR utilises nuclei that have odd numbers of nucleons. Due to $^{13}C$ and $^{1}H$ both having odd numbers of nucleons, being abundant, and being prevalent in all organic compounds, they make excellent nuclei for NMR analysis. Nuclei with an even number of nucleons have a spin of 0 and do not have any NMR absorption.
-
 ## Chemical Environments
 ```smiles
 C-C
@@ -17,7 +16,6 @@ C-C-C=O
 - In this molecule (propanal) there are three different $^{1}H$ environments. 
 - The $^{1}H$ nuclei on $C_1$ (closest to oxygen) are bonded to a carbon atom which is bonded to one other C atom, while the $^{1}H$ Nuclei on $C_2$ are bonded to a carbon atom bonded to two other C atoms, while the $^{1}H$ nucleus on $C_3$ is bonded to a C atom bonded to an O atom and another C atom.
 - These different chemical environments mean that the $^{1}H$ nuclei will require different intensities of radio waves to cause them to flip, due to the shielding effect of their neighbouring groups. This gives them a unique and identifiable peak on the NMR spectrum
-
 ## Chemical Shift
 The more electronegative an atoms chemical environment is (neighbouring atoms), the less energy is required to flip it (e.g. $^{1}H$). This is because the electronegative atoms will attract the electrons neighbouring the $H$ nucleus, degrading the shielding around the nucleus making it more susceptible to radio wave interference.
 
